@@ -1,0 +1,37 @@
+{   
+    "easy":{
+        "player":{},
+        "invaders":[
+            {"spriteId":0,"damage":1,"maxhealth":3,"shootingSpeed":5,"dropChance":10,"clr":13696829},
+            {"spriteId":1,"damage":2,"maxhealth":5,"shootingSpeed":5,"dropChance":10,"clr":16732857}],
+        "levels":
+        [
+            [
+                [],
+                [],
+                [0,0,0]
+            ],
+
+            [
+                [],
+                [],
+                [0,0,0,0],
+                [0,0]
+            ],
+
+            [
+                [],
+                [],
+                [0,0,0,0],
+                [0,0,0],
+                [0,0],
+                [1]
+
+            ]
+
+        ]
+    },
+    "normal":[[]],
+    "hard":[[]],
+    "expert":[[]]
+}
