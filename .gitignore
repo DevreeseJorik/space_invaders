@@ -1,2 +1,3 @@
-/space_invaders/
-space_invaders/space_invaders.pde
+space_invaders/out
+space_invaders/data/bgMusic_1.mp3
+space_invaders/data/bgMusic.mp3
