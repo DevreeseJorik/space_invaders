@@ -16,7 +16,7 @@ class Level {
 void createLevels() {
   createDifficulties();
   
-  int rowCount = 23;
+  int rowCount = 19;
   int colCount = 3;
   createLevel(rowCount,colCount,0);
   
